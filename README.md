@@ -16,7 +16,7 @@ We will be calling our API throughout the next 8 modules. I have written the req
 >Note: (Httpie)[https://httpie.io/] is pre-installed in the docker container.
 ***
 ***
-
+    
 ## Getting started
 First you will need to clone down the first module.
 
